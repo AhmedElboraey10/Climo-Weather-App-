@@ -2,6 +2,8 @@
 
 A responsive, full-screen weather dashboard that allows users to search for locations by continent, country, and city, then view current weather conditions, hourly forecasts, and an expandable 16-day forecast with Celsius/Fahrenheit switching.
 
+**🌐 Live Demo:** [Climo Weather Dashboard](https://ahmedelboraey10.github.io/Climo-Weather-App-/)
+
 ## Task Specifications
 
 Build a weather application initialized with a grouped dataset of continents and countries. The interface must allow the user to select a continent, filter/search countries, and search cities using an external geocoding API. After a city is selected, the application must fetch current weather, hourly forecast, and daily forecast data from a weather API.
